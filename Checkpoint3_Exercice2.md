@@ -41,6 +41,18 @@ PasswordAuthentication no
 
 ## Partie 3 - Analyse du stockage
 
+**Q2.3.1**
+
+![Systèmes de fichiers montés](Ressources/ex2/mounted_fs.png)
+
+**Q2.3.2**
+
+**Q2.3.3**
+
+**Q2.3.4**
+
+**Q2.3.5**
+
 ## Partie 4 - Sauvegardes
 
 ## Partie 5 - Filtrage et analyse réseau
