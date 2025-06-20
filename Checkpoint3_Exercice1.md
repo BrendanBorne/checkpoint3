@@ -37,3 +37,7 @@
 ![Lien GPO mot de passe](Ressources/ex1/passwordgpo.png)
 
 ## Partie 3
+
+![Mapping drives](Ressources/ex1/drive_map.png)
+
+![Lien GPO drives](Ressources/ex1/linked_drive.png)
