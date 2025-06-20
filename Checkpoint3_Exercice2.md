@@ -71,7 +71,7 @@ Ext2, Ext4, Swap.
 
 **Q2.5.2**
 
-Autorise les connexions internes (loopback) SSH (TCP port 22), l'IPv4 et IPv6.
+Autorise les connexions établies, internes (loopback) SSH (TCP port 22), l'IPv4 et IPv6.
 
 **Q2.5.3**
 
