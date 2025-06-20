@@ -1,4 +1,4 @@
-# Exercice 1
+# Exercice 1 - Manipulations pratiques sur VM Windows
 
 ## Partie 1
 
