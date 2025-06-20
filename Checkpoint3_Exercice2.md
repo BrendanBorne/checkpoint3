@@ -47,6 +47,8 @@ PasswordAuthentication no
 
 **Q2.3.2**
 
+Ext2, Ext4, Swap.
+
 **Q2.3.3**
 
 **Q2.3.4**
@@ -54,6 +56,12 @@ PasswordAuthentication no
 **Q2.3.5**
 
 ## Partie 4 - Sauvegardes
+
+**Q2.4.1**
+
+* bareos-dir : contrôle le système de sauvegarde
+* bareos-sd : stocke à la demande de bareos-dir sur les volumes de sauvegarde
+* bareos-fd : sert à lire et vérifier les fichiers à sauvegarder
 
 ## Partie 5 - Filtrage et analyse réseau
 
