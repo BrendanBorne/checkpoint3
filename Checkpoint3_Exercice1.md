@@ -18,7 +18,7 @@
 
 **Q1.1.4** 
 
-
+![Archivage de Kelly et création de Lionel](Ressources/ex1/dossier_perso.png)
 
 ## Partie 2
 
