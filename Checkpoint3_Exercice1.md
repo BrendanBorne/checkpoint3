@@ -1,6 +1,6 @@
 # Exercice 1 - Manipulations pratiques sur VM Windows
 
-## Partie 1
+## Partie 1 - Gestion des utilisateurs
 
 **Q1.1.1** 
 
@@ -20,7 +20,7 @@
 
 ![Archivage de Kelly et création de Lionel](Ressources/ex1/dossier_perso.png)
 
-## Partie 2
+## Partie 2 - Restriction des utilisateurs
 
 **Q1.2.1**
 
@@ -36,7 +36,7 @@
 
 ![Lien GPO mot de passe](Ressources/ex1/passwordgpo.png)
 
-## Partie 3
+## Partie 3 - Lecteurs réseaux
 
 ![Mapping drives](Ressources/ex1/drive_map.png)
 
