@@ -22,4 +22,18 @@
 
 ## Partie 2
 
+**Q1.2.1**
+
+![Heures de connexion de Ghul](Ressources/ex1/ghul_hours.png)
+
+**Q1.2.2**
+
+![Connexion au client 1 de Ghul](Ressources/ex1/ghul_client01.png)
+
+**Q1.2.3**
+
+![GPO mot de passe](Ressources/ex1/passwordgpo.png)
+
+![Lien GPO mot de passe](Ressources/ex1/passwordgpo.png)
+
 ## Partie 3
