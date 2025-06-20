@@ -65,4 +65,23 @@ Ext2, Ext4, Swap.
 
 ## Partie 5 - Filtrage et analyse réseau
 
+**Q2.5.1**
+
+![Règles netfilter](Ressources/ex2/nft_rules.png)
+
+**Q2.5.2**
+
+Autorise les connexions internes (loopback) SSH (TCP port 22), l'IPv4 et IPv6.
+
+**Q2.5.3**
+
+Tout le reste est interdit.
+
+**Q2.5.4**
+
+```bash
+nft add rule inet inet_filter_table in_chain tcp dport { 9101, 9102, 9103 } accept
+```
+
 ## Partie 6 - Analyse de logs
+
