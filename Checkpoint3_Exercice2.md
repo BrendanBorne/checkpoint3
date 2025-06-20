@@ -85,3 +85,4 @@ nft add rule inet inet_filter_table in_chain tcp dport { 9101, 9102, 9103 } acce
 
 ## Partie 6 - Analyse de logs
 
+![Journal des dernières tentatives de connexion échouées](Ressources/ex2/journal.png)
